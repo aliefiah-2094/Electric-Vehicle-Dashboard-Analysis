@@ -1,4 +1,4 @@
-# ⚡ Electric Vehicle Data Analysis Dashboard with Tableau  
+# ⚡ Electric Vehicle Data Analysis Dashboard
 
 This repository contains a Tableau dashboard created using the **Electric Vehicle Population Dataset**.  
 The dashboard provides insights into the growth, distribution, and adoption of electric vehicles across the United States.  
