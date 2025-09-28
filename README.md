@@ -18,16 +18,18 @@ The dashboard provides insights into the growth, distribution, and adoption of e
 
 ## 🔗 Live Dashboard  
 You can view the interactive dashboard here:  
-👉 [Electric Vehicle Tableau Dashboard](your-tableau-link-here)  
+👉 [Electric Vehicle Tableau Dashboard](https://public.tableau.com/app/profile/aliefiah.khambaty/viz/ElectricVehicle_17581072249630/Dashboard1?publish=yes)  
 
 ## 📂 Repository Contents  
 - `EV_Dashboard.png` – Dashboard preview image  
 - `Electric Vehicle.twb` – Tableau Workbook file  
 - `Electric_Vehicle_Population_Data.csv.zip` – Dataset used  
+- `Electric_Vehicle_Population_Data.xlsx` – Cleaned dataset in Excel format  
 - `README.md` – Project documentation  
 
 ## 🛠 Tools Used  
 - Tableau Public (for visualization)  
+- Microsoft Excel (for data cleaning & preprocessing)  
 - GitHub (for version control & sharing)  
 
 ---
